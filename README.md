@@ -2,7 +2,9 @@
 
 ![](https://github.com/aidayang/MinerU-OneClick/blob/main/11.jpg?raw=true)
 
-MinerU是一款非常热门的高质量的PDF转Markdown和JSON格式软件，当前更新到了1.0.1版本，为了方便大家快速上手体验，省去安装部署耗时，我制作了最新版一键启动整合包，下载解压即用。
+MinerU是一款非常热门的高质量的PDF转Markdown和JSON格式软件，当前更新到了1.0.1版本，为了方便大家快速上手体验，省去安装部署耗时，我制作了最新版免安装一键启动整合包，下载解压即用。
+
+*2025年2月21日制作了v1.1.0版整合包
 
 ## MinerU整合包使用说明
 
@@ -42,7 +44,7 @@ PDF文档处理完成后结果会保存在你设置的输出目录里。
 
 ## MinerU一键启动整合包下载链接
 
-[https://pan.quark.cn/s/03c6d214394b](https://pan.quark.cn/s/03c6d214394b)
+https://pan.quark.cn/s/8c854a17f594
 
 [https://pan.baidu.com/s/1jUcyr1Mgm9mKskUC-69pYA?pwd=rpbj](https://pan.baidu.com/s/1jUcyr1Mgm9mKskUC-69pYA?pwd=rpbj)
 
