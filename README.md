@@ -18,6 +18,6 @@
 
 ## MinerU 3.1.11 One-Click Download Link
 
-https://pan.quark.cn/s/51291f4555eb
+https://www.patreon.com/posts/158018038
 
 
