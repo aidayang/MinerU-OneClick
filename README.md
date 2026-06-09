@@ -20,4 +20,5 @@
 
 https://www.patreon.com/posts/158018038
 
-
+## PDF批量全文翻译转Markdown软件下载链接：
+https://articles.zsxq.com/id_d9tw9e44qwcb.html
