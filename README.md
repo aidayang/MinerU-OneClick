@@ -33,3 +33,7 @@ https://pan.quark.cn/s/debdb18d23ac
 
 ## PDF批量全文翻译转Markdown软件下载链接：
 https://nuowa.net/2628
+
+## 常见问题 (FAQ)
+- **报错 `no kernel image is available for execution on the device`**
+  当前整合包预编译内核尚未完全适配 RTX 50 系列 (Blackwell) 及 CUDA 13.1。请尝试在运行前设置环境变量 `CUDA_MODULE_LOADING=LAZY`，或等待官方发布完整适配版本。
